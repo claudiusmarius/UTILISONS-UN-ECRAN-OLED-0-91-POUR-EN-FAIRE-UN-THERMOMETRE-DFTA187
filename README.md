@@ -9,7 +9,7 @@ Ces petits codes fournis sont initiatiques pour oser, prendre le temps, d'utilis
 
 Conformément à mes habitudes je fournis l'ensemble des éléments afin que vous puissiez les réutiliser et donc les modifier, les améliorer.
 
-Vodéo YouTube : https://youtu.be/aan2i_1ifOk
+Vidéo YouTube : https://youtu.be/aan2i_1ifOk
 
 N'hésitez à commenter et à apporter des améliorations.
 
